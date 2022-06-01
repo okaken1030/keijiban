@@ -1,0 +1,83 @@
+.menu {
+  background-color: black;
+  color: white;
+  height:40px
+}
+
+.menu li{
+  float: left;
+  list-style-type: none;
+  padding:10px 10px 10px 40px;
+  font-size:13px;
+}
+
+.left{
+float: left;
+width:65%;
+padding-right:3%;
+padding-left:1%;
+}
+
+.left form{
+  background-color: #f1f1f1;
+  border: 3px #ebebeb solid;
+}
+
+.left form h3{
+  border-left: 3px solid #ebebeb;
+  margin-left: 10px;
+  padding-left: 10px;
+}
+
+.left .handlename,.title,.comments,.submit{
+  margin-bottom:5px;
+  margin-left:5px;
+}
+
+.kiji{
+  margin-bottom: 10px;
+  padding: 10px 10px;
+  background-color: #f1f1f1;
+  border: 3px #ebebeb solid;
+  width:100%;
+}
+
+.kiji h3{
+  border-bottom: solid 2px lightgray;
+}
+
+.contents{
+  margin:5px;
+  padding-bottom: 5px;
+}
+
+.handlename{
+  font-size:12px;
+}
+
+.right{
+  padding-top:23px;
+  float: left;
+  width:30%;
+}
+
+
+
+.right h3{
+  border-bottom: 2px dotted black;
+  padding-left:20px;
+}
+
+.right ul{
+  list-style-type: none;
+}
+
+
+footer{
+  clear:left;
+  background-color: black;
+  color:white;
+  height: 35px;
+  font-size:15px;
+  text-align:center;
+}
